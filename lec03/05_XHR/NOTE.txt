@@ -1,0 +1,2 @@
+To run 'example-localhost.html' place it along with 'myfile.json' in a
+folder on your WAMP/MAMP/LAMP server.
