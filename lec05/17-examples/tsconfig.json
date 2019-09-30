@@ -1,0 +1,8 @@
+{
+    "files" : [ "17-examples.ts" ],
+    "compilerOptions": { 
+        "lib": [ "dom", "es2017" ],
+        "removeComments": false,
+        //"target": "es2017"
+    }
+}
